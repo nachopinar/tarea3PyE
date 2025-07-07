@@ -1,0 +1,25 @@
+# Archivos generados por el script
+resultado_punto*.txt
+resultados_finales.txt
+
+# Archivos de datos
+*.csv
+
+# Entornos virtuales
+venv/
+.env/
+.venv/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuraciones de IDEs
+.idea/
+.vscode/
