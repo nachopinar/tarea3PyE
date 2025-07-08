@@ -1,6 +1,8 @@
 # Archivos generados por el script
 resultado_punto*.txt
 resultados_finales.txt
+datos_filtrados.txt
+resultados_analisis.txt
 
 # Archivos de datos
 *.csv
